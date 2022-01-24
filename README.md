@@ -10,7 +10,7 @@
 
 <div>
     <p>
-    Detection, classification and localization of military and civilian vehicles, which include: 'Military Truck', 'Military Tank', 'Military Aircraft', 'Military Helicopter', 'Civilian Car' and 'Civilian Aircraft' from this [data](https://data.mendeley.com/datasets/njdjkbxdpn/1). The dataset is created and processed using Roboflow. For detection, a [YOLOv5](https://github.com/ultralytics/yolov5) model is trained and then the solution is evaluated using Precision, Recall, F-score and mAP (mean Average Precision).
+    Detection, classification and localization of military and civilian vehicles, which include: 'Military Truck', 'Military Tank', 'Military Aircraft', 'Military Helicopter', 'Civilian Car' and 'Civilian Aircraft' from this <a href="https://data.mendeley.com/datasets/njdjkbxdpn/1">data</a>. The dataset is created and processed using Roboflow. For detection, a <a href="https://github.com/ultralytics/yolov5">YOLOv5</a> model is trained and then the solution is evaluated using Precision, Recall, F-score and mAP (mean Average Precision).
     </p>
 </div>
 
